@@ -120,7 +120,7 @@
             <div class="col-md-6">
               <div class="card card-span h-100 text-white"> <img class="img-fluid"
 
-                  src="assets/img/gallery/her.png" alt="..." width="790">
+                  src="assets/img/gallery/busguichuuddee.jpg" alt="..." width="790">
                 <div class="card-img-overlay d-flex flex-center"> <a class="btn btn-lg btn-light"
 
                     href="#categoryWomen-Men">Бүсгүйчүүддээ</a></div>
@@ -129,7 +129,7 @@
             <div class="col-md-6">
               <div class="card card-span h-100 text-white"> <img class="img-fluid"
 
-                  src="assets/img/gallery/him.png" alt="..." width="790">
+                  src="assets/img/gallery/zaluus.jpg" alt="..." width="790">
                 <div class="card-img-overlay d-flex flex-center"> <a class="btn btn-lg btn-light"
 
                     href="#categoryWomen-Men">Залуустаа</a></div>
@@ -436,9 +436,10 @@
             </div>
             <div class="col-md-6">
               <div class="card card-span h-100 text-white"><img class="card-img h-100"
-
+								
+ 						<!--outfit.png end baisn--> 
                   src="assets/img/gallery/outfit.png" alt="...">
-                <div class="card-img-overlay bg-dark-gradient">
+                <div class="card-img-overlay bg-dark-gradient"> 
                   <div class="d-flex align-items-end justify-content-center h-100"><a
 
                       class="btn btn-lg text-light fs-1" href="#%21" role="button">Outfit
@@ -729,7 +730,7 @@
       </section>
       <section id="categoryWomen-Men">
         <div class="container">
- <!-- Emegtei hesegiin tsamts podvolk zurag une-iin heseg. DOr baigaa code iig comment bish bolgood uur item nemehed ih amar baigaa-->
+          <!-- Emegtei hesegiin tsamts podvolk zurag une-iin heseg. DOr baigaa code iig comment bish bolgood uur item nemehed ih amar baigaa-->
           <div class="row h-100">
             <div class="col-lg-7 mx-auto text-center mb-6">
               <h5 class="fw-bold fs-3 fs-lg-5 lh-sm mb-3">Төрлөөр нь харах</h5>
@@ -770,17 +771,13 @@
 
                           aria-selected="false">Цамц</button> </li>
                       <!--  <li class="nav-item" role="presentation"> <button class="nav-link"
-                          id="pills-wshoes-tab" data-bs-toggle="pill" data-bs-target="#pills-wshoes"                          type="button" role="tab" aria-controls="pills-wshoes"
-                          aria-selected="false">Гутал </button> </li> -->
+                          id="pills-wshoes-tab" data-bs-toggle="pill" data-bs-target="#pills-wshoes"                          type="button" role="tab" aria-controls="pills-wshoes"                          aria-selected="false">Гутал </button> </li> -->
                       <!-- <li class="nav-item" role="presentation"> <button class="nav-link"
-                          id="pills-wwatch-tab" data-bs-toggle="pill" data-bs-target="#pills-wwatch"                          type="button" role="tab" aria-controls="pills-wwatch"
-                          aria-selected="false">Цаг</button> </li> -->
+                          id="pills-wwatch-tab" data-bs-toggle="pill" data-bs-target="#pills-wwatch"                          type="button" role="tab" aria-controls="pills-wwatch"                          aria-selected="false">Цаг</button> </li> -->
                       <!-- <li class="nav-item" role="presentation"> <button class="nav-link"
-                          id="pills-wsunglasses-tab" data-bs-toggle="pill" data-bs-target="#pills-wsunglasses"                          type="button" role="tab" aria-controls="pills-wsunglasses"
-                          aria-selected="false">Нүдний шил</button> </li> -->
+                          id="pills-wsunglasses-tab" data-bs-toggle="pill" data-bs-target="#pills-wsunglasses"                          type="button" role="tab" aria-controls="pills-wsunglasses"                          aria-selected="false">Нүдний шил</button> </li> -->
                       <!-- <li class="nav-item" role="presentation"> <button class="nav-link"
-                          id="pills-wbagpacks-tab" data-bs-toggle="pill" data-bs-target="#pills-wbagpacks"                          type="button" role="tab" aria-controls="pills-wbagpacks"
-                          aria-selected="false">Цүнх</button> </li> -->
+                          id="pills-wbagpacks-tab" data-bs-toggle="pill" data-bs-target="#pills-wbagpacks"                          type="button" role="tab" aria-controls="pills-wbagpacks"                          aria-selected="false">Цүнх</button> </li> -->
                     </ul>
                     <div class="tab-content" id="pills-tabContentWomen">
                       <div class="tab-pane fade" id="pills-dresses" role="tabpanel"
@@ -2530,19 +2527,7 @@
                           type="button" role="tab" aria-controls="pills-shirt" aria-selected="false">Цамц</button>
                       </li>
                       <!-- <li class="nav-item" role="presentation"> <button class="nav-link"
-                          id="pills-shoes-tab" data-bs-toggle="pill" data-bs-target="#pills-shoes"
-                          type="button" role="tab" aria-controls="pills-shoes" aria-selected="false">Shoes</button>
-                      </li>                      <li class="nav-item" role="presentation"> <button class="nav-link"
-                          id="pills-watch-tab" data-bs-toggle="pill" data-bs-target="#pills-watch"
-                          type="button" role="tab" aria-controls="pills-watch" aria-selected="false">Watch
-                          </button> </li>                      <li class="nav-item" role="presentation"> <button class="nav-link"
-                          id="pills-sunglasses-tab" data-bs-toggle="pill" data-bs-target="#pills-sunglasses"
-                          type="button" role="tab" aria-controls="pills-sunglasses"
-                          aria-selected="false">Sunglasses </button> </li>
-                      <li class="nav-item" role="presentation"> <button class="nav-link"
-                          id="pills-bagpacks-tab" data-bs-toggle="pill" data-bs-target="#pills-bagpacks"
-                          type="button" role="tab" aria-controls="pills-bagpacks"
-                          aria-selected="false">Bagpacks </button> </li> -->
+                          id="pills-shoes-tab" data-bs-toggle="pill" data-bs-target="#pills-shoes"                          type="button" role="tab" aria-controls="pills-shoes" aria-selected="false">Shoes</button>                      </li>                      <li class="nav-item" role="presentation"> <button class="nav-link"                          id="pills-watch-tab" data-bs-toggle="pill" data-bs-target="#pills-watch"                          type="button" role="tab" aria-controls="pills-watch" aria-selected="false">Watch                          </button> </li>                      <li class="nav-item" role="presentation"> <button class="nav-link"                          id="pills-sunglasses-tab" data-bs-toggle="pill" data-bs-target="#pills-sunglasses"                          type="button" role="tab" aria-controls="pills-sunglasses"                          aria-selected="false">Sunglasses </button> </li>                      <li class="nav-item" role="presentation"> <button class="nav-link"                          id="pills-bagpacks-tab" data-bs-toggle="pill" data-bs-target="#pills-bagpacks"                          type="button" role="tab" aria-controls="pills-bagpacks"                          aria-selected="false">Bagpacks </button> </li> -->
                     </ul>
                     <div class="tab-content" id="pills-tabContentMen">
                       <div class="tab-pane fade show active" id="pills-tshirt" role="tabpanel"
